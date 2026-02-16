@@ -6,7 +6,7 @@
 
 <p>
 Welcome to my GitHub! 👋 <br/>
-I'm <b>Kishan Kumar</b>, a <b>Full-Stack Developer</b> & <b>AI/Web Enthusiast</b> from 
+I'm <b>Kishan Kumar</b>, a <b>Full-Stack Developer</b> & <b>App & Web Enthusiast</b> from 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-india-flag-icon-svg-download-png-32988.png?f=webp" width="13"/> <b>India</b>.
 <br/>
 Currently pursuing <b>B.Tech in Information Technology</b> (2023–2027) and actively building scalable web & AI-driven products 🚀
@@ -37,7 +37,7 @@ Currently pursuing <b>B.Tech in Information Technology</b> (2023–2027) and act
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
+  
   <img alt="Tailwind" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
@@ -66,14 +66,14 @@ Currently pursuing <b>B.Tech in Information Technology</b> (2023–2027) and act
       <td>AI-powered multilingual legal mediation platform</td>
     </tr>
     <tr>
-      <td><b>TrackSmart</b></td>
-      <td>React · Node · Kafka · AI/ML</td>
-      <td>Predictive logistics visibility platform for Tier-2/3 cities</td>
+      <td><b>Dronaa</b></td>
+      <td>React · Node · MongoDB · AWS</td>
+      <td>A Powerfull mock test platform</td>
     </tr>
     <tr>
-      <td><b>ReWear</b></td>
-      <td>React · Node · MongoDB</td>
-      <td>Community clothing exchange promoting sustainable fashion</td>
+      <td><b>GatiShakti</b></td>
+      <td>React · Node · MongoDB · Express</td>
+      <td>A crowd management System</td>
     </tr>
   </tbody>
 </table>
@@ -83,8 +83,8 @@ Currently pursuing <b>B.Tech in Information Technology</b> (2023–2027) and act
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KishanKumar&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishanKumar&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kishan2613&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan2613&theme=tokyonight" width="48%"/>
 </p>
 
 ---
@@ -92,13 +92,13 @@ Currently pursuing <b>B.Tech in Information Technology</b> (2023–2027) and act
 <h3>🌐 Where to Find Me</h3>
 
 <p>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/kishan2613" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/kishan-kumar-00822428b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:kishankr2613@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -108,4 +108,5 @@ Currently pursuing <b>B.Tech in Information Technology</b> (2023–2027) and act
 <p align="center">
   <i>“Building products that solve real problems using code, creativity & AI.”</i>
 </p>
+
 
