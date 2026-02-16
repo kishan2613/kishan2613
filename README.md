@@ -83,7 +83,7 @@ Currently pursuing <b>B.Tech in Information Technology</b> (2023–2027) and act
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishan2613&show_icons=true&theme=tokyonight" width="48%"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan2613&theme=tokyonight" width="48%"/>
 </p>
 
@@ -108,5 +108,6 @@ Currently pursuing <b>B.Tech in Information Technology</b> (2023–2027) and act
 <p align="center">
   <i>“Building products that solve real problems using code, creativity & AI.”</i>
 </p>
+
 
 
